@@ -15,4 +15,4 @@
   <li>And, as it always has, Rock crushes Scissors</li>
 </ul>
 <p>This is my first GUI based python code.<\n>
-  You can look into the screenshot folder to see the user interface of the code.</p>
+  You can view the the user interface of the code in the file "screenshot".</p>
