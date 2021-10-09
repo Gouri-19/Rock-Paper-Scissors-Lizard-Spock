@@ -1,5 +1,5 @@
 # Rock-Paper-Scissors-Lizard-Spock
-<p>if you have seen the famous sitcom "The Big Bang Theory", you've heard of this game. This is a one player game where the player plays against sheldon (computer).</p>
+<p>If you have seen the famous sitcom "The Big Bang Theory", you've heard of this game. This is a one player game where the player plays against sheldon (computer).</p>
 <hr/>
 <b>Let Sheldon Copper explain the Rules of the game to you;</b>
 <ul>
