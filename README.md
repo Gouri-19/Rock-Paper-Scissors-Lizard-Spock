@@ -1,6 +1,5 @@
 # Rock-Paper-Scissors-Lizard-Spock
-<p>If you have seen the famous sitcom "The Big Bang Theory", you've heard of this game. This is a one player game where the player plays against Sheldon (computer).</p>
-<p>This is my first GUI based python code.<br/>The screenshot of the user interface is also available.</p>
+<p>If you have seen the famous sitcom "The Big Bang Theory", you've heard of this game. This is a one player game where the player plays against Sheldon (computer). This is my first GUI based python code. The screenshot of the user interface is also available.</p>
 <hr/>
 <b>Let Sheldon Cooper explain the Rules of the game to you;</b>
 <ul>
