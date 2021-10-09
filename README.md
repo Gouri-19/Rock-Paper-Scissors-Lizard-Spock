@@ -14,5 +14,5 @@
   <li>Spock vaporizes Rock</li>
   <li>And, as it always has, Rock crushes Scissors</li>
 </ul>
-<p>This is my first GUI based python code.<\n>
-  You can view the the user interface of the code in the file "screenshot".</p>
+<p>This is my first GUI based python code.<br/>
+  The screenshot of the user interface is also available.</p>
